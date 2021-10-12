@@ -13,10 +13,10 @@
    "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
    "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
-   "fbad_showStatus":"1",
-   "mopub_banner":"77f6538b2ee448c5abc1f4d9865396dc",
-   "mopub_inter1":"ad9a92f0c35946f68e607535fb989ac6",
-   "mopub_inter2":"ad9a92f0c35946f68e607535fb989ac6",
-   "mopub_inter3":"ad9a92f0c35946f68e607535fb989ac6",
-   "mopub_native":"fc2c8c8369324ac3a28908a8d5cee0e0"
+   "mopub_showStatus":"1",
+   "mopub_banner":"b195f8dd8ded45fe847ad89ed1d016da",
+   "mopub_inter1":"24534e1901884e398f1253216226017e",
+   "mopub_inter2":"24534e1901884e398f1253216226017e",
+   "mopub_inter3":"24534e1901884e398f1253216226017e",
+   "mopub_native":"11a17b188668469fb0412708c3d16813"
 }
